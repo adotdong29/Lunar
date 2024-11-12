@@ -14,6 +14,7 @@ Lunar is a webproxy that removes censorship.
 - 🚫 No Ads
 - 🚀 Fast speeds
 - 🪞 Automatic Tab cloaking
+- Built-in apps
 - 🎨 A bunch of Customization & Features
 - ➕ Even more!
 
